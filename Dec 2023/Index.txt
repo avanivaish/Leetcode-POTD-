@@ -1,13 +1,13 @@
 Dec 1: https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/
 Dec 2: https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/
-Dec 3:
-Dec 4:
-Dec 5:
-Dec 6:
-Dec 7:
-Dec 8:
-Dec 9:
-Dec 10:
+Dec 3: https://leetcode.com/problems/minimum-time-visiting-all-points/description/?envType=daily-question&envId=2023-12-03
+Dec 4: https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/?envType=daily-question&envId=2023-12-04
+Dec 5: https://leetcode.com/problems/count-of-matches-in-tournament/description/?envType=daily-question&envId=2023-12-05
+Dec 6: https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/?envType=daily-question&envId=2023-12-06
+Dec 7: https://leetcode.com/problems/largest-odd-number-in-string/description/?envType=daily-question&envId=2023-12-07
+Dec 8: https://leetcode.com/problems/construct-string-from-binary-tree/description/?envType=daily-question&envId=2023-12-08
+Dec 9: https://leetcode.com/problems/binary-tree-inorder-traversal/?envType=daily-question&envId=2023-12-09
+Dec 10: https://leetcode.com/problems/transpose-matrix/
 Dec 11:
 Dec 12:
 Dec 13:
