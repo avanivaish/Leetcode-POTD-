@@ -8,7 +8,7 @@ Dec 7: https://leetcode.com/problems/largest-odd-number-in-string/description/?e
 Dec 8: https://leetcode.com/problems/construct-string-from-binary-tree/description/?envType=daily-question&envId=2023-12-08
 Dec 9: https://leetcode.com/problems/binary-tree-inorder-traversal/?envType=daily-question&envId=2023-12-09
 Dec 10: https://leetcode.com/problems/transpose-matrix/
-Dec 11:
+Dec 11: https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 Dec 12:
 Dec 13:
 Dec 14:
