@@ -9,7 +9,7 @@ Dec 8: https://leetcode.com/problems/construct-string-from-binary-tree/descripti
 Dec 9: https://leetcode.com/problems/binary-tree-inorder-traversal/?envType=daily-question&envId=2023-12-09
 Dec 10: https://leetcode.com/problems/transpose-matrix/
 Dec 11: https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
-Dec 12:
+Dec 12: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 Dec 13:
 Dec 14:
 Dec 15:
