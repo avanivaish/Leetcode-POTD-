@@ -11,7 +11,7 @@ Dec 10: https://leetcode.com/problems/transpose-matrix/
 Dec 11: https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/
 Dec 12: https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
 Dec 13: https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/?envType=daily-question&envId=2023-12-13
-Dec 14:
+Dec 14: https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/?envType=daily-question&envId=2023-12-14
 Dec 15:
 Dec 16:
 Dec 17:
