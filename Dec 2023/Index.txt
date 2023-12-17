@@ -14,7 +14,7 @@ Dec 13: https://leetcode.com/problems/special-positions-in-a-binary-matrix/descr
 Dec 14: https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/description/?envType=daily-question&envId=2023-12-14
 Dec 15: https://leetcode.com/problems/destination-city/
 Dec 16: https://leetcode.com/problems/valid-anagram/
-Dec 17:
+Dec 17: https://leetcode.com/problems/design-a-food-rating-system/
 Dec 18:
 Dec 19:
 Dec 20:
