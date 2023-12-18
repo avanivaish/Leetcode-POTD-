@@ -15,7 +15,7 @@ Dec 14: https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-a
 Dec 15: https://leetcode.com/problems/destination-city/
 Dec 16: https://leetcode.com/problems/valid-anagram/
 Dec 17: https://leetcode.com/problems/design-a-food-rating-system/
-Dec 18:
+Dec 18: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
 Dec 19:
 Dec 20:
 Dec 21:
