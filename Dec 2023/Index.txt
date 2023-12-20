@@ -16,8 +16,8 @@ Dec 15: https://leetcode.com/problems/destination-city/
 Dec 16: https://leetcode.com/problems/valid-anagram/
 Dec 17: https://leetcode.com/problems/design-a-food-rating-system/
 Dec 18: https://leetcode.com/problems/maximum-product-difference-between-two-pairs/
-Dec 19:
-Dec 20:
+Dec 19: https://leetcode.com/problems/image-smoother/description/?envType=daily-question&envId=2023-12-19
+Dec 20: https://leetcode.com/problems/buy-two-chocolates/description/?envType=daily-question&envId=2023-12-20
 Dec 21:
 Dec 22:
 Dec 23:
