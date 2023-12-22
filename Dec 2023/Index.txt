@@ -19,7 +19,7 @@ Dec 18: https://leetcode.com/problems/maximum-product-difference-between-two-pai
 Dec 19: https://leetcode.com/problems/image-smoother/description/?envType=daily-question&envId=2023-12-19
 Dec 20: https://leetcode.com/problems/buy-two-chocolates/description/?envType=daily-question&envId=2023-12-20
 Dec 21: https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/
-Dec 22: 
+Dec 22: https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/
 Dec 23:
 Dec 24:
 Dec 25:
