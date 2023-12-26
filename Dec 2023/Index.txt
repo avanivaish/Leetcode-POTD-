@@ -22,8 +22,8 @@ Dec 21: https://leetcode.com/problems/widest-vertical-area-between-two-points-co
 Dec 22: https://leetcode.com/problems/maximum-score-after-splitting-a-string/description/
 Dec 23: https://leetcode.com/problems/path-crossing/?envType=daily-question&envId=2023-12-23
 Dec 24: https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/
-Dec 25:
-Dec 26:
+Dec 25: https://leetcode.com/problems/decode-ways/description/?envType=daily-question&envId=2023-12-25
+Dec 26: https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/?envType=daily-question&envId=2023-12-26
 Dec 27:
 Dec 28:
 Dec 29:
