@@ -26,6 +26,6 @@ Dec 25: https://leetcode.com/problems/decode-ways/description/?envType=daily-que
 Dec 26: https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/?envType=daily-question&envId=2023-12-26
 Dec 27: https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/
 Dec 28: https://leetcode.com/problems/string-compression-ii/
-Dec 29:
+Dec 29: https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/description/
 Dec 30:
 Dec 31:
