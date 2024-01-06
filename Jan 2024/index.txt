@@ -3,3 +3,4 @@ Jan 2: https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-condi
 Jan 3: https://leetcode.com/problems/number-of-laser-beams-in-a-bank/
 Jan 4: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/description/
 Jan 5: https://leetcode.com/problems/longest-increasing-subsequence/?envType=daily-question&envId=2024-01-05
+Jan 6: https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/
