@@ -5,3 +5,4 @@ Jan 4: https://leetcode.com/problems/minimum-number-of-operations-to-make-array-
 Jan 5: https://leetcode.com/problems/longest-increasing-subsequence/?envType=daily-question&envId=2024-01-05
 Jan 6: https://leetcode.com/problems/maximum-profit-in-job-scheduling/description/
 Jan 7: https://leetcode.com/problems/arithmetic-slices-ii-subsequence/  
+Jan 8: https://leetcode.com/problems/range-sum-of-bst/
