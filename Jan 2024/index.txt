@@ -10,3 +10,4 @@ Jan 9: https://leetcode.com/problems/leaf-similar-trees/?envType=daily-question&
 Jan 10: https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/
 Jan 11: https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/
 Jan 12: https://leetcode.com/problems/determine-if-string-halves-are-alike/
+Jan 13: https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
