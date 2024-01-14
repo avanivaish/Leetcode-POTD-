@@ -11,3 +11,4 @@ Jan 10: https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infec
 Jan 11: https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/description/
 Jan 12: https://leetcode.com/problems/determine-if-string-halves-are-alike/
 Jan 13: https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/
+Jan 14: https://leetcode.com/problems/determine-if-two-strings-are-close/?envType=daily-question&envId=2024-01-14
