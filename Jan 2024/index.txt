@@ -17,3 +17,5 @@ Jan 16: https://leetcode.com/problems/insert-delete-getrandom-o1/
 Jan 17: https://leetcode.com/problems/unique-number-of-occurrences/
 Jan 18: https://leetcode.com/problems/climbing-stairs/?envType=daily-question&envId=2024-01-18
 Jan 19: https://leetcode.com/problems/sum-of-subarray-minimums/description/?envType=daily-question&envId=2024-01-20
+Jan 20: https://leetcode.com/problems/sum-of-subarray-minimums/?envType=daily-question&envId=2024-01-20
+Jan 21: https://leetcode.com/problems/house-robber/?envType=daily-question&envId=2024-01-21
