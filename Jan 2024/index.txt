@@ -22,3 +22,4 @@ Jan 21: https://leetcode.com/problems/house-robber/?envType=daily-question&envId
 Jan 22: https://leetcode.com/problems/set-mismatch/?envType=daily-question&envId=2024-01-22
 Jan 23: https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/?envType=daily-question&envId=2024-01-23
 Jan 24: https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/?envType=daily-question&envId=2024-01-24
+Jan 25: https://leetcode.com/problems/longest-common-subsequence/description/?envType=daily-question&envId=2024-01-25
