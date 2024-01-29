@@ -26,3 +26,4 @@ Jan 25: https://leetcode.com/problems/longest-common-subsequence/description/?en
 Jan 26: https://leetcode.com/problems/out-of-boundary-paths/?envType=daily-question&envId=2024-01-26
 Jan 27: https://leetcode.com/problems/k-inverse-pairs-array/?envType=daily-question&envId=2024-01-27
 Jan 28: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/?envType=daily-question&envId=2024-01-28
+Jan 29: https://leetcode.com/problems/implement-queue-using-stacks/?envType=daily-question&envId=2024-01-29
