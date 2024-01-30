@@ -27,3 +27,4 @@ Jan 26: https://leetcode.com/problems/out-of-boundary-paths/?envType=daily-quest
 Jan 27: https://leetcode.com/problems/k-inverse-pairs-array/?envType=daily-question&envId=2024-01-27
 Jan 28: https://leetcode.com/problems/number-of-submatrices-that-sum-to-target/?envType=daily-question&envId=2024-01-28
 Jan 29: https://leetcode.com/problems/implement-queue-using-stacks/?envType=daily-question&envId=2024-01-29
+Jan 30: https://leetcode.com/problems/evaluate-reverse-polish-notation/?envType=daily-question&envId=2024-01-30
