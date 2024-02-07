@@ -4,3 +4,4 @@ Feb 3: https://leetcode.com/problems/partition-array-for-maximum-sum/description
 Feb 4: https://leetcode.com/problems/minimum-window-substring/description/
 Feb 5: https://leetcode.com/problems/first-unique-character-in-a-string/description/?envType=daily-question&envId=2024-02-05
 Feb 6: https://leetcode.com/problems/group-anagrams/description/
+Feb 7: https://leetcode.com/problems/sort-characters-by-frequency/submissions/1168975645/?envType=daily-question&envId=2024-02-07
