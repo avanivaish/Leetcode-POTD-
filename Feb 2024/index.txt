@@ -7,3 +7,4 @@ Feb 6: https://leetcode.com/problems/group-anagrams/description/
 Feb 7: https://leetcode.com/problems/sort-characters-by-frequency/submissions/1168975645/?envType=daily-question&envId=2024-02-07
 Feb 8: https://leetcode.com/problems/perfect-squares/?envType=daily-question&envId=2024-02-08
 Feb 9: https://leetcode.com/problems/largest-divisible-subset/description/?envType=daily-question&envId=2024-02-09
+Feb 10: https://leetcode.com/problems/palindromic-substrings/description/?envType=daily-question&envId=2024-02-10
