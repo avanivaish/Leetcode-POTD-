@@ -10,3 +10,4 @@ Feb 9: https://leetcode.com/problems/largest-divisible-subset/description/?envTy
 Feb 10: https://leetcode.com/problems/palindromic-substrings/description/?envType=daily-question&envId=2024-02-10
 Feb 11: https://leetcode.com/problems/cherry-pickup-ii/description/
 Feb 12: https://leetcode.com/problems/majority-element/description/
+Feb 13: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/
