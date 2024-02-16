@@ -13,3 +13,4 @@ Feb 12: https://leetcode.com/problems/majority-element/description/
 Feb 13: https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/
 Feb 14: https://leetcode.com/problems/rearrange-array-elements-by-sign/?envType=daily-question&envId=2024-02-14
 Feb 15: https://leetcode.com/problems/find-polygon-with-the-largest-perimeter/submissions/1175971142/?envType=daily-question&envId=2024-02-15
+Feb 16: https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/description/?envType=daily-question&envId=2024-02-16
