@@ -25,3 +25,4 @@ Feb 23: https://leetcode.com/problems/cheapest-flights-within-k-stops/descriptio
 Feb 24: https://leetcode.com/problems/find-all-people-with-secret/description/
 Feb 25: https://leetcode.com/problems/greatest-common-divisor-traversal/description/
 Feb 26: https://leetcode.com/problems/same-tree/description/?envType=daily-question&envId=2024-02-26
+Feb 27: https://leetcode.com/problems/diameter-of-binary-tree/description/?envType=daily-question&envId=2024-02-27
