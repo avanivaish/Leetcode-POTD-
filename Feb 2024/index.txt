@@ -27,3 +27,4 @@ Feb 25: https://leetcode.com/problems/greatest-common-divisor-traversal/descript
 Feb 26: https://leetcode.com/problems/same-tree/description/?envType=daily-question&envId=2024-02-26
 Feb 27: https://leetcode.com/problems/diameter-of-binary-tree/description/?envType=daily-question&envId=2024-02-27
 Feb 28: https://leetcode.com/problems/find-bottom-left-tree-value/description/?envType=daily-question&envId=2024-02-28
+Feb 29: https://leetcode.com/problems/even-odd-tree/description/
