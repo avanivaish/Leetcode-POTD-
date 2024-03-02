@@ -1,1 +1,2 @@
 March 1: https://leetcode.com/problems/maximum-odd-binary-number/description/
+March 2: https://leetcode.com/problems/squares-of-a-sorted-array/?envType=daily-question&envId=2024-03-02
