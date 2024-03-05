@@ -2,3 +2,4 @@ March 1: https://leetcode.com/problems/maximum-odd-binary-number/description/
 March 2: https://leetcode.com/problems/squares-of-a-sorted-array/?envType=daily-question&envId=2024-03-02
 March 3: https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
 March 4: https://leetcode.com/problems/bag-of-tokens/
+March 5: https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/
