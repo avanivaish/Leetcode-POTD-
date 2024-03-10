@@ -7,3 +7,4 @@ March 6: https://leetcode.com/problems/linked-list-cycle/description/
 March 7: https://leetcode.com/problems/middle-of-the-linked-list/description/
 March 8:
 March 9: https://leetcode.com/problems/minimum-common-value/?envType=daily-question&envId=2024-03-09
+March 10: https://leetcode.com/problems/intersection-of-two-arrays/description/
