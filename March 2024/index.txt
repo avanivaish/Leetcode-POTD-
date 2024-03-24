@@ -21,3 +21,4 @@ March 20: https://leetcode.com/problems/reverse-linked-list/
 March 21: https://leetcode.com/problems/reverse-linked-list/description/?envType=daily-question&envId=2024-03-21
 March 22: https://leetcode.com/problems/palindrome-linked-list/
 March 23: https://leetcode.com/problems/reorder-list/
+March 24: https://leetcode.com/problems/find-the-duplicate-number/description/?envType=daily-question&envId=2024-03-24
